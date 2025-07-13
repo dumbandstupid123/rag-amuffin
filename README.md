@@ -65,4 +65,4 @@ The pipeline uses:
 - **LangGraph** for workflow orchestration
 - **OpenAI Embeddings** for semantic search
 - **In-memory Vector Store** for document retrieval
-- **GPT-4o-mini** for answer generation 
+- **GPT-4o-mini** for answer generation
